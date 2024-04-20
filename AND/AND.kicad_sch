@@ -735,7 +735,7 @@
     (property "Reference" "R1" (at 81.153 74.3529 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100k" (at 81.153 76.7771 0)
+    (property "Value" "1M" (at 81.153 76.7771 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 77.597 75.565 90)
