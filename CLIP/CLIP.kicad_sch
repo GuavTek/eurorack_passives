@@ -1128,270 +1128,6 @@
 		(uuid "fbce0017-60a7-4c3d-89ae-e5684155dcfb")
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 132.08 137.16 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "01350255-ab9f-4a29-b1a8-448d013314ff")
-		(property "Reference" "D8"
-			(at 130.048 138.3722 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 130.048 135.9479 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 132.08 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 132.08 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 132.08 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 132.08 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 132.08 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cbb017da-6db0-4ff7-bbb3-bb178a783a53")
-		)
-		(pin "2"
-			(uuid "c2de4537-7ef5-4a61-a1bf-c5f52658fd56")
-		)
-		(instances
-			(project "CLIP"
-				(path "/50a2b79f-8919-4b1a-95cd-937141fb6dbf"
-					(reference "D8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 119.38 146.05 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "108298a1-0b1d-4b3f-8168-f2bd94d1ee14")
-		(property "Reference" "D2"
-			(at 121.412 144.8378 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 121.412 147.2621 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 119.38 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 119.38 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 119.38 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 119.38 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 119.38 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "91e35dc8-718e-4723-957a-9cc69ef5fe85")
-		)
-		(pin "2"
-			(uuid "26379b95-79b3-4590-940f-bd39b92e6605")
-		)
-		(instances
-			(project ""
-				(path "/50a2b79f-8919-4b1a-95cd-937141fb6dbf"
-					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 132.08 154.94 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "12b7df59-19a2-4bff-ba59-164844dacda8")
-		(property "Reference" "D6"
-			(at 130.048 156.1522 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 130.048 153.7279 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 132.08 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 132.08 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 132.08 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 132.08 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 132.08 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d8c534e5-0c4e-4683-a6c5-165ab8310143")
-		)
-		(pin "2"
-			(uuid "2a08d610-dfd0-4d82-894a-4c2186bbe62f")
-		)
-		(instances
-			(project "CLIP"
-				(path "/50a2b79f-8919-4b1a-95cd-937141fb6dbf"
-					(reference "D6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_Zener")
 		(at 123.19 82.55 90)
 		(unit 1)
@@ -1410,7 +1146,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3v3 zener"
+		(property "Value" "BZX384C3V3-E3-08"
 			(at 125.222 83.7621 90)
 			(effects
 				(font
@@ -1419,7 +1155,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 123.19 82.55 0)
 			(effects
 				(font
@@ -1480,7 +1216,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3v3 zener"
+		(property "Value" "BZX384C3V3-E3-08"
 			(at 125.222 74.8721 90)
 			(effects
 				(font
@@ -1489,7 +1225,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 123.19 73.66 0)
 			(effects
 				(font
@@ -1689,7 +1425,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom_FP:PJ398SM"
 			(at 147.32 100.33 0)
 			(effects
 				(font
@@ -1736,16 +1472,16 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 119.38 163.83 90)
+		(at 119.38 154.94 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3edd1b96-17af-41ac-85ce-94eb61b807c6")
-		(property "Reference" "D4"
-			(at 121.412 162.6178 90)
+		(uuid "46ea3916-0126-48d7-8c4a-a8d417c6759f")
+		(property "Reference" "D3"
+			(at 117.348 153.7278 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1753,8 +1489,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
-			(at 121.412 165.0421 90)
+		(property "Value" "1N4148"
+			(at 117.348 156.1521 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1762,8 +1498,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 119.38 163.83 0)
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+			(at 119.38 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1772,7 +1508,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 119.38 163.83 0)
+			(at 119.38 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1781,7 +1517,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 119.38 163.83 0)
+			(at 119.38 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1790,7 +1526,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 119.38 163.83 0)
+			(at 119.38 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1799,7 +1535,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 119.38 163.83 0)
+			(at 119.38 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1808,103 +1544,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "ad6f3dbf-964d-45cf-b68d-1cc4f7c23a27")
+			(uuid "50277fe3-ab52-48f0-9891-fdb9f9a82551")
 		)
 		(pin "2"
-			(uuid "8ee50c4b-0912-4eff-8e2e-b6feceaaf851")
+			(uuid "d102c7b1-00d8-429e-a8b6-9434f5d948b6")
 		)
 		(instances
 			(project "CLIP"
 				(path "/50a2b79f-8919-4b1a-95cd-937141fb6dbf"
-					(reference "D4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 132.08 146.05 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "51cd947c-02a9-4214-8b1e-fbb6864e3ca6")
-		(property "Reference" "D7"
-			(at 130.048 147.2622 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 130.048 144.8379 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 132.08 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 132.08 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 132.08 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 132.08 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 132.08 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2407bdaa-39b9-4712-b283-57b11158e1f2")
-		)
-		(pin "2"
-			(uuid "34e315f6-fe7e-44a2-8b84-4760abad852b")
-		)
-		(instances
-			(project "CLIP"
-				(path "/50a2b79f-8919-4b1a-95cd-937141fb6dbf"
-					(reference "D7")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -1936,7 +1584,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom_FP:PJ398SM"
 			(at 147.32 68.58 0)
 			(effects
 				(font
@@ -1976,6 +1624,94 @@
 			(project "CLIP"
 				(path "/50a2b79f-8919-4b1a-95cd-937141fb6dbf"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 119.38 163.83 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "64afe71f-2f80-465b-8c1a-eec48010c992")
+		(property "Reference" "D4"
+			(at 117.348 162.6178 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 117.348 165.0421 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+			(at 119.38 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 119.38 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 119.38 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 119.38 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 119.38 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b5b73cf9-a57f-4a41-9d67-cbb8344d2037")
+		)
+		(pin "2"
+			(uuid "9ddacaf0-6481-485b-9814-21e689425777")
+		)
+		(instances
+			(project "CLIP"
+				(path "/50a2b79f-8919-4b1a-95cd-937141fb6dbf"
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -2074,7 +1810,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 113.03 133.858 90)
 			(effects
 				(font
@@ -2142,7 +1878,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 118.11 70.358 90)
 			(effects
 				(font
@@ -2185,6 +1921,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 119.38 146.05 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7a7d51d0-9892-4726-9217-57f902bd9d50")
+		(property "Reference" "D2"
+			(at 117.348 144.8378 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 117.348 147.2621 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+			(at 119.38 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 119.38 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 119.38 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 119.38 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 119.38 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2c166bbb-4ea1-4848-b772-a7e346c31c52")
+		)
+		(pin "2"
+			(uuid "a5976861-6450-40a2-9c05-91f5f457ebfd")
+		)
+		(instances
+			(project "CLIP"
+				(path "/50a2b79f-8919-4b1a-95cd-937141fb6dbf"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Audio:AudioJack2_SwitchT")
 		(at 71.12 80.01 0)
 		(unit 1)
@@ -2210,7 +2034,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom_FP:PJ398SM"
 			(at 71.12 80.01 0)
 			(effects
 				(font
@@ -2250,6 +2074,94 @@
 			(project ""
 				(path "/50a2b79f-8919-4b1a-95cd-937141fb6dbf"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 132.08 137.16 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "884c2e9d-d0f3-431f-ab4f-68bed1419109")
+		(property "Reference" "D8"
+			(at 134.112 138.3722 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 134.112 135.9479 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+			(at 132.08 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 132.08 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 132.08 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 132.08 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 132.08 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "281ac14e-40d6-4c50-8343-cbe801e40342")
+		)
+		(pin "2"
+			(uuid "8cc94a7d-0abf-4d3f-a5bc-b81aa49fdabb")
+		)
+		(instances
+			(project "CLIP"
+				(path "/50a2b79f-8919-4b1a-95cd-937141fb6dbf"
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -2324,16 +2236,16 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 119.38 154.94 90)
+		(at 132.08 146.05 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "89cc74d6-b388-4222-9eef-8f0e240f5447")
-		(property "Reference" "D3"
-			(at 121.412 153.7278 90)
+		(uuid "8e1ae5cc-6697-4cc5-8066-f5d8ce36d9ef")
+		(property "Reference" "D7"
+			(at 134.112 147.2622 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2341,8 +2253,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
-			(at 121.412 156.1521 90)
+		(property "Value" "1N4148"
+			(at 134.112 144.8379 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2350,8 +2262,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 119.38 154.94 0)
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+			(at 132.08 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2360,7 +2272,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 119.38 154.94 0)
+			(at 132.08 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2369,7 +2281,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 119.38 154.94 0)
+			(at 132.08 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2378,7 +2290,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 119.38 154.94 0)
+			(at 132.08 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2387,7 +2299,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 119.38 154.94 0)
+			(at 132.08 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2396,15 +2308,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "803c8537-2a8c-45ca-aec6-4474de4ea8b7")
+			(uuid "4285ec24-7c20-4cd6-8674-838e981349da")
 		)
 		(pin "2"
-			(uuid "4ccf4cdc-32ad-427c-87b6-f3f64ce010ad")
+			(uuid "fe4818b5-86ad-4b72-a80a-703bc223af57")
 		)
 		(instances
 			(project "CLIP"
 				(path "/50a2b79f-8919-4b1a-95cd-937141fb6dbf"
-					(reference "D3")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -2436,7 +2348,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom_FP:PJ398SM"
 			(at 151.13 132.08 0)
 			(effects
 				(font
@@ -2476,94 +2388,6 @@
 			(project "CLIP"
 				(path "/50a2b79f-8919-4b1a-95cd-937141fb6dbf"
 					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 132.08 163.83 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9e72d3f2-24c7-487e-9416-45059e4cc2a1")
-		(property "Reference" "D5"
-			(at 130.048 165.0422 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 130.048 162.6179 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 132.08 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 132.08 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 132.08 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 132.08 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 132.08 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a977541f-c97c-408d-8710-e4f6867ef339")
-		)
-		(pin "2"
-			(uuid "390f159f-8c4d-4c10-87b0-1f5bc26be0c7")
-		)
-		(instances
-			(project "CLIP"
-				(path "/50a2b79f-8919-4b1a-95cd-937141fb6dbf"
-					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -2795,7 +2619,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 118.11 102.108 90)
 			(effects
 				(font
@@ -2856,7 +2680,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2v zener"
+		(property "Value" "BZT52C2V0S"
 			(at 125.222 115.5121 90)
 			(effects
 				(font
@@ -2865,7 +2689,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 123.19 114.3 0)
 			(effects
 				(font
@@ -2926,7 +2750,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2v zener"
+		(property "Value" "BZT52C2V0S"
 			(at 125.222 106.6221 90)
 			(effects
 				(font
@@ -2935,7 +2759,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 123.19 105.41 0)
 			(effects
 				(font
@@ -2979,16 +2803,16 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 119.38 137.16 90)
+		(at 119.38 137.16 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d64085ed-46d1-4546-9600-4ef041e7a4b9")
 		(property "Reference" "D1"
-			(at 121.412 135.9478 90)
+			(at 117.348 135.9478 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2996,8 +2820,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
-			(at 121.412 138.3721 90)
+		(property "Value" "1N4148"
+			(at 117.348 138.3721 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3005,7 +2829,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 119.38 137.16 0)
 			(effects
 				(font
@@ -3060,6 +2884,182 @@
 			(project ""
 				(path "/50a2b79f-8919-4b1a-95cd-937141fb6dbf"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 132.08 154.94 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e83d66e3-4ade-4c4e-9008-2c5f8a154de6")
+		(property "Reference" "D6"
+			(at 134.112 156.1522 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 134.112 153.7279 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+			(at 132.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 132.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 132.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 132.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 132.08 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "13b1b582-eb0f-4e57-bc33-4cf584094ebb")
+		)
+		(pin "2"
+			(uuid "42e26a7d-9c68-4d8d-b7d8-a49c92c6d820")
+		)
+		(instances
+			(project "CLIP"
+				(path "/50a2b79f-8919-4b1a-95cd-937141fb6dbf"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 132.08 163.83 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f1623645-b415-427b-8831-6e40405dc5d2")
+		(property "Reference" "D5"
+			(at 134.112 165.0422 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 134.112 162.6179 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+			(at 132.08 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 132.08 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 132.08 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 132.08 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 132.08 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "142561c6-00a9-417d-b683-354fd4f36eeb")
+		)
+		(pin "2"
+			(uuid "fcc2a1c0-d6ce-4019-a82b-730fe93651bb")
+		)
+		(instances
+			(project "CLIP"
+				(path "/50a2b79f-8919-4b1a-95cd-937141fb6dbf"
+					(reference "D5")
 					(unit 1)
 				)
 			)
