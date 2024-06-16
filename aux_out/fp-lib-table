@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "custom_fp")(type "KiCad")(uri "C:/Users/mikda/Documents/GitHub/eurorack_passives/lib/custom_fp.pretty")(options "")(descr ""))
+  (lib (name "custom_fp")(type "KiCad")(uri "${KIPRJMOD} /../Custom_FP/Custom_FP.pretty")(options "")(descr ""))
 )
