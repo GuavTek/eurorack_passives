@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Custom_Sym")(type "KiCad")(uri "D:/Documents/GitHub/eurorack_passives/Custom_Sym/Custom_Sym.kicad_sym")(options "")(descr ""))
+)
