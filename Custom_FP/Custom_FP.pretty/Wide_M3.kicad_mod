@@ -1,0 +1,13 @@
+(footprint "Wide_M3" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -3.81) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp d03b3aef-8eff-4563-aca7-b412fe558256)
+  )
+  (fp_text value "Wide_M3" (at 0 3.81) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 91f19137-089b-4928-af9f-01fb9f544bda)
+  )
+  (pad "1" thru_hole oval (at 0 0) (size 7 4.2) (drill oval 6 3.2) (layers "*.Cu" "*.Mask") (tstamp b975a6b4-a644-4a2a-bd56-54f9941de426))
+)
