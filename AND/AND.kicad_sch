@@ -1435,7 +1435,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom_FP:PJ398SM"
 			(at 66.04 90.17 0)
 			(effects
 				(font
@@ -1506,7 +1506,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom_FP:PJ398SM"
 			(at 120.65 70.485 0)
 			(effects
 				(font
@@ -1712,7 +1712,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 77.597 75.565 90)
 			(effects
 				(font
@@ -1929,7 +1929,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom_FP:PJ398SM"
 			(at 63.5 70.485 0)
 			(effects
 				(font
