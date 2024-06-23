@@ -106,7 +106,7 @@
 			)
 		)
 		(property "Value" "AudioJack2_SwitchT"
-			(at 0 -8.25 360)
+			(at 0 -8.25 0)
 			(layer "F.Fab")
 			(uuid "dd1ba4f1-a229-4c44-b1e8-30fcd40a0c7e")
 			(effects
@@ -117,7 +117,7 @@
 			)
 		)
 		(property "Footprint" "Custom_FP:PJ398SM"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e0dbc5b5-d36d-4556-80a6-d991d92edf07")
@@ -129,7 +129,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "53d7ce33-d749-4123-91bb-a6512b095ded")
@@ -141,7 +141,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "eae87d70-74db-4e74-8a53-99020255d0a9")
@@ -275,7 +275,7 @@
 			)
 		)
 		(property "Value" "AudioJack2_SwitchT"
-			(at 0 -8.25 360)
+			(at 0 -8.25 0)
 			(layer "F.Fab")
 			(uuid "506419b4-c462-402e-b9e2-3bc8ba9e5446")
 			(effects
@@ -286,7 +286,7 @@
 			)
 		)
 		(property "Footprint" "Custom_FP:PJ398SM"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7fb553ee-7081-4098-bddb-8aae12f47003")
@@ -298,7 +298,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "78228c7d-c83e-4a20-ab60-2e63bb3bb3f3")
@@ -310,7 +310,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "257f6949-cf22-41f4-b54f-e163decdb2bc")
@@ -444,7 +444,7 @@
 			)
 		)
 		(property "Value" "AudioJack2_SwitchT"
-			(at 0 -8.25 360)
+			(at 0 -8.25 0)
 			(layer "F.Fab")
 			(uuid "9557413e-6274-4105-8cec-51949a52b76d")
 			(effects
@@ -455,7 +455,7 @@
 			)
 		)
 		(property "Footprint" "Custom_FP:PJ398SM"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8c8347db-2035-407b-99ac-0fe20ad33cbc")
@@ -467,7 +467,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fb5a5afd-8f04-49ce-ae3b-16a143b9a573")
@@ -479,7 +479,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d31c95bc-0fba-456d-840e-90dab38a851a")
@@ -613,7 +613,7 @@
 			)
 		)
 		(property "Value" "AudioJack2_SwitchT"
-			(at 0 -8.25 360)
+			(at 0 -8.25 0)
 			(layer "F.Fab")
 			(uuid "f55239fd-3c14-446d-932c-1793fa2fb61c")
 			(effects
@@ -624,7 +624,7 @@
 			)
 		)
 		(property "Footprint" "Custom_FP:PJ398SM"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f9d015f5-846b-4343-8fd4-f7982c94c321")
@@ -636,7 +636,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6ffb142b-7f5b-4d95-ab19-3ec364a6183e")
@@ -648,7 +648,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "77406268-4df0-4fa9-b436-59256055cfd5")
@@ -1289,7 +1289,7 @@
 			)
 		)
 		(property "Value" "AudioJack2_SwitchT"
-			(at 0 -8.25 360)
+			(at 0 -8.25 0)
 			(layer "F.Fab")
 			(uuid "3d4bc71e-9e58-46c0-882b-651f7b5e9bf7")
 			(effects
@@ -1300,7 +1300,7 @@
 			)
 		)
 		(property "Footprint" "Custom_FP:PJ398SM"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "00e1882c-7a60-411a-95df-02597a2c12bc")
@@ -1312,7 +1312,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5b40bef2-c683-41f8-a749-53f1da151d09")
@@ -1324,7 +1324,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a7337eb5-6727-448c-8ae0-00479eaa014c")
@@ -1481,6 +1481,18 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "f5ca3771-4c11-4ab5-b01b-3a645c9962d7")
+	)
+	(gr_text "Passive\nMULT"
+		(at 112.1 118.25 0)
+		(layer "B.SilkS")
+		(uuid "084bbd5c-60ac-47e8-8759-a34a2f00107f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
 	)
 	(segment
 		(start 107.75 112)
