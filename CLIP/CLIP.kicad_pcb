@@ -271,7 +271,7 @@
 		(uuid "092033a3-ea38-4b9d-91d0-8ae1ef38ea33")
 		(at 139.25 87.03)
 		(property "Reference" "J3"
-			(at 0 -6.75 360)
+			(at 0 -6.75 0)
 			(layer "F.SilkS")
 			(uuid "167a969e-8048-4ef2-8fba-366093f34fb3")
 			(effects
@@ -282,7 +282,7 @@
 			)
 		)
 		(property "Value" "AudioJack2_SwitchT"
-			(at 0 -8.25 360)
+			(at 0 -8.25 0)
 			(layer "F.Fab")
 			(uuid "623e1050-52e9-4547-89e5-21901c5b2ed5")
 			(effects
@@ -293,7 +293,7 @@
 			)
 		)
 		(property "Footprint" "Custom_FP:PJ398SM"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "97d43b23-02b4-4bd6-84f7-c1210afaac58")
@@ -305,7 +305,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5c9eed1b-76a8-4b7f-8074-0304b2ea694e")
@@ -317,7 +317,7 @@
 			)
 		)
 		(property "Description" "Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5447ab48-7ba4-42a5-891e-a6348b50abd4")
@@ -780,7 +780,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "B.SilkS")
 			(uuid "e45ec74c-f4dc-4f82-9b32-f7d6a513f6ec")
 			(effects
@@ -792,7 +792,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "bea90228-cd85-49e4-bca3-b1ace7eac878")
 			(effects
@@ -951,7 +951,7 @@
 			(uuid "bf584163-405b-4bc4-85c6-be0ff53fd12e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "c3a917b8-0c11-47e4-ab0d-a74313b8168b")
 			(effects
@@ -1637,7 +1637,7 @@
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D4"
-			(at 0 -1.75 360)
+			(at 0 -1.75 0)
 			(layer "B.SilkS")
 			(uuid "9b3b165d-8682-4909-9917-82956af7d035")
 			(effects
@@ -1649,7 +1649,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 0.1 -1.9 360)
+			(at 0.1 -1.9 0)
 			(layer "B.Fab")
 			(uuid "a88e37c3-ffce-47ed-abbe-69430d1f9544")
 			(effects
@@ -1906,7 +1906,7 @@
 			(uuid "967d9ca3-64e3-4efc-abda-584cee0a7ee6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 1.85 360)
+			(at 0 1.85 0)
 			(layer "B.Fab")
 			(uuid "5cf4f9fd-0231-4614-a1bc-746a793d5ee9")
 			(effects
@@ -2566,7 +2566,7 @@
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D2"
-			(at 0 -1.75 360)
+			(at 0 -1.75 0)
 			(layer "B.SilkS")
 			(uuid "674b119b-8802-4214-87d5-9de2910bf1e5")
 			(effects
@@ -2578,7 +2578,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 0.1 -1.9 360)
+			(at 0.1 -1.9 0)
 			(layer "B.Fab")
 			(uuid "eade8656-1b60-4907-9a95-b6e33696a09d")
 			(effects
@@ -2835,7 +2835,7 @@
 			(uuid "89ae49fe-b4b3-4456-a8de-69ace56caf22")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 1.85 360)
+			(at 0 1.85 0)
 			(layer "B.Fab")
 			(uuid "6821647b-dd1a-41f5-869d-21f09001ac2a")
 			(effects
@@ -2885,7 +2885,7 @@
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D9"
-			(at 0 1.85 360)
+			(at 0 1.85 0)
 			(layer "B.SilkS")
 			(uuid "ee77b994-c314-451a-a5b6-653a2f3776e7")
 			(effects
@@ -2897,7 +2897,7 @@
 			)
 		)
 		(property "Value" "BZX384C3V3-E3-08"
-			(at 0.1 -1.9 360)
+			(at 0.1 -1.9 0)
 			(layer "B.Fab")
 			(uuid "e1e2c4b2-eb11-4e37-9091-fa68d6cf4f15")
 			(effects
@@ -3126,7 +3126,7 @@
 			(uuid "75391eea-1fb8-482a-addf-eacd361565ef")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 1.85 360)
+			(at 0 1.85 0)
 			(layer "B.Fab")
 			(uuid "e04f3d22-ef23-4539-a087-53c506dd96c3")
 			(effects
@@ -3395,7 +3395,7 @@
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D7"
-			(at 0.25 -1.75 360)
+			(at 0.25 -1.75 0)
 			(layer "B.SilkS")
 			(uuid "0c13ef0f-8bd1-49af-a44a-ca614a212717")
 			(effects
@@ -3407,7 +3407,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 0.1 -1.9 360)
+			(at 0.1 -1.9 0)
 			(layer "B.Fab")
 			(uuid "2d698f62-693f-488b-9c0e-3841a8378e79")
 			(effects
@@ -3664,7 +3664,7 @@
 			(uuid "19d04a67-db3c-4d9f-85e8-166ea44fe9f8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 1.85 360)
+			(at 0 1.85 0)
 			(layer "B.Fab")
 			(uuid "ad1c7d12-9022-44e7-9a87-ea1100a578d4")
 			(effects
@@ -3714,7 +3714,7 @@
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D10"
-			(at 0.75 -1.75 360)
+			(at 0.75 -1.75 0)
 			(layer "B.SilkS")
 			(uuid "e5d20803-0012-4f06-b83d-f52468b078a5")
 			(effects
@@ -3726,7 +3726,7 @@
 			)
 		)
 		(property "Value" "BZX384C3V3-E3-08"
-			(at 0.1 -1.9 360)
+			(at 0.1 -1.9 0)
 			(layer "B.Fab")
 			(uuid "59a8e5e0-998a-4446-b3c8-42bfe7a4a42b")
 			(effects
@@ -3955,7 +3955,7 @@
 			(uuid "67ff0781-b5c9-4006-961d-648e7f8aeb5b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 1.85 360)
+			(at 0 1.85 0)
 			(layer "B.Fab")
 			(uuid "696c3855-7b4b-40ea-8e32-c642939cc227")
 			(effects
@@ -4296,7 +4296,7 @@
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D1"
-			(at 0 -1.75 360)
+			(at 0 -1.75 0)
 			(layer "B.SilkS")
 			(uuid "2f2458c2-0d49-45ad-a5bd-856ce0bc8fef")
 			(effects
@@ -4308,7 +4308,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 0.1 -1.9 360)
+			(at 0.1 -1.9 0)
 			(layer "B.Fab")
 			(uuid "8978196e-0fc3-4cc5-af8f-01f4b4c030f7")
 			(effects
@@ -4565,7 +4565,7 @@
 			(uuid "dc9882e0-fe5e-4df5-a1e3-d786fdc5e879")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 1.85 360)
+			(at 0 1.85 0)
 			(layer "B.Fab")
 			(uuid "d676d27a-1afa-4dad-bdc0-cd672ec87b80")
 			(effects
@@ -4615,7 +4615,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R2"
-			(at 0 -1.5 360)
+			(at 0 -1.5 0)
 			(layer "B.SilkS")
 			(uuid "5bb82670-fc10-4273-ad94-54991a8e276c")
 			(effects
@@ -4627,7 +4627,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "37b2fc18-e981-40e2-a51c-a273e7b75fe8")
 			(effects
@@ -4786,7 +4786,7 @@
 			(uuid "b78625a5-e312-4ade-81b9-1765b676e63a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "dfc6d5c2-eb30-463b-83ca-94af181be0de")
 			(effects
@@ -4834,7 +4834,7 @@
 		(descr "SOD-323")
 		(tags "SOD-323")
 		(property "Reference" "D3"
-			(at 0 -1.75 360)
+			(at 0 -1.75 0)
 			(layer "B.SilkS")
 			(uuid "728ac6bb-3231-45b3-9f06-1b58af4b735a")
 			(effects
@@ -4846,7 +4846,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 0.1 -1.9 360)
+			(at 0.1 -1.9 0)
 			(layer "B.Fab")
 			(uuid "0acc86f9-4f15-4049-80c9-39e5135ddd93")
 			(effects
@@ -5103,7 +5103,7 @@
 			(uuid "4199d9df-9288-4a53-b36c-78abaae0fa6e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 1.85 360)
+			(at 0 1.85 0)
 			(layer "B.Fab")
 			(uuid "64ff9d39-69c8-49d0-a921-54851c8d7709")
 			(effects
@@ -5185,6 +5185,18 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "a7fed414-5b04-4b04-b971-3d0fd1b50880")
+	)
+	(gr_text "Passive\nCLIPPER"
+		(at 149.5 96.25 0)
+		(layer "B.SilkS")
+		(uuid "4318222d-e347-43d5-8ef8-39cf92495ec2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify bottom mirror)
+		)
 	)
 	(segment
 		(start 153.75 83)
