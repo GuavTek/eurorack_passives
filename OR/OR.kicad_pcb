@@ -442,7 +442,7 @@
 			)
 		)
 		(property "Value" "AudioJack2_SwitchT"
-			(at 22.75 -8.25 -0)
+			(at 22.75 -8.25 0)
 			(layer "B.Fab")
 			(uuid "3fab2256-7ca5-4055-89fa-f737c34a3caf")
 			(effects
@@ -1149,7 +1149,7 @@
 		(descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "Q2"
-			(at -1 -2.5 360)
+			(at -1 -2.5 0)
 			(layer "B.SilkS")
 			(uuid "efa9e215-86ed-44e4-9dfa-bfea729d0478")
 			(effects
@@ -1161,7 +1161,7 @@
 			)
 		)
 		(property "Value" "BSS84"
-			(at 0 -2.4 360)
+			(at 0 -2.4 0)
 			(layer "B.Fab")
 			(uuid "0bcdce83-1ab3-4b24-b5fc-91ea059e20a1")
 			(effects
@@ -1362,7 +1362,7 @@
 			(uuid "812ef229-72ae-46d5-bcaf-bd49e6c999a8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "d6cabd7a-2241-4209-b911-e82f43e9b70a")
 			(effects
@@ -1695,7 +1695,7 @@
 		(descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "Q5"
-			(at 0.6875 -2.5 360)
+			(at 0.6875 -2.5 0)
 			(layer "B.SilkS")
 			(uuid "2b916f73-8856-4c8d-923e-7d209e86f2c1")
 			(effects
@@ -1707,7 +1707,7 @@
 			)
 		)
 		(property "Value" "BSS84"
-			(at 0 -2.4 360)
+			(at 0 -2.4 0)
 			(layer "B.Fab")
 			(uuid "0bdb4da0-c5b9-443a-a6a7-9dcee32dcd0d")
 			(effects
@@ -1908,7 +1908,7 @@
 			(uuid "11191b81-2249-478a-8ef6-353b8d037df4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "8266405e-ccae-4cb7-9f8a-c03a2cb27e6b")
 			(effects
@@ -2219,6 +2219,18 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "b0936a86-ce55-4b57-9ce5-f9c0949de679")
+	)
+	(gr_text "Passive\nOR"
+		(at 141.2 79.45 0)
+		(layer "B.SilkS")
+		(uuid "8f51cade-299d-4f32-b7e2-5a45057fd15f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify bottom mirror)
+		)
 	)
 	(via
 		(at 126.5 86)
