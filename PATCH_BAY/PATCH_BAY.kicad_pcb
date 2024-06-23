@@ -267,7 +267,7 @@
 		(uuid "22f2e359-65c8-4add-a776-5238c894682a")
 		(at 129.75 60.5 180)
 		(property "Reference" "J1"
-			(at 0 -7 360)
+			(at 0 -7 0)
 			(layer "F.SilkS")
 			(uuid "09354b50-4800-4740-bfd0-4360c1f90b26")
 			(effects
@@ -278,7 +278,7 @@
 			)
 		)
 		(property "Value" "AudioJack2_SwitchT"
-			(at 0 -8.25 360)
+			(at 0 -8.25 0)
 			(layer "F.Fab")
 			(uuid "c5c92322-3b02-427f-9e7d-78ba38041aa2")
 			(effects
@@ -289,7 +289,7 @@
 			)
 		)
 		(property "Footprint" "Custom_FP:PJ398SM"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f0d53c00-cfcb-41fd-858e-30c63df90ffc")
@@ -301,7 +301,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e3fcad72-62f4-4f64-8e2f-314e437f7794")
@@ -313,7 +313,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bd06261b-ce7b-47e1-b753-34bf189615a5")
@@ -774,7 +774,7 @@
 		(uuid "b773f92c-0f68-42a9-937d-dd0e15eac337")
 		(at 160.5 60.5 180)
 		(property "Reference" "J6"
-			(at 0 -6.75 360)
+			(at 0 -6.75 0)
 			(layer "F.SilkS")
 			(uuid "9e2c5820-7d1a-4be7-a541-2493b0b33b4b")
 			(effects
@@ -785,7 +785,7 @@
 			)
 		)
 		(property "Value" "AudioJack2_SwitchT"
-			(at 0 -8.25 360)
+			(at 0 -8.25 0)
 			(layer "F.Fab")
 			(uuid "f746da8d-c397-4855-a5d2-2d90ccfe396d")
 			(effects
@@ -796,7 +796,7 @@
 			)
 		)
 		(property "Footprint" "Custom_FP:PJ398SM"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7e553e4b-33e0-4f3a-9817-8a728ef3b0ed")
@@ -808,7 +808,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "733b0513-79f6-4ccd-b781-eb8a44acf63c")
@@ -820,7 +820,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b892ac92-e80d-4bfc-99c6-79769f8826ca")
@@ -1877,6 +1877,18 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "a2a5b12b-61e1-4057-ae0e-4c5e82d3a7ab")
+	)
+	(gr_text "Patch bay"
+		(at 161.5 61.5 0)
+		(layer "B.SilkS")
+		(uuid "d8d5ece0-7680-4e10-b3d9-f5f342db7e99")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
 	)
 	(segment
 		(start 141.75 55.5)
