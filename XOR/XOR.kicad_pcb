@@ -92,7 +92,7 @@
 	(footprint "Custom_FP:PJ398SM"
 		(layer "F.Cu")
 		(uuid "60d8be87-0b65-4bea-b567-89281bd324f2")
-		(at 165.5 87.03)
+		(at 165.5 87)
 		(property "Reference" "J3"
 			(at 2 -6.78 0)
 			(layer "F.SilkS")
@@ -2237,6 +2237,18 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "e811bf1b-2f6e-4314-be33-008981491a62")
+	)
+	(gr_text "Passive\nXOR"
+		(at 166.2 79.45 0)
+		(layer "B.SilkS")
+		(uuid "0dfc3641-11df-4b1a-9fe0-2fe7f1609945")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify bottom mirror)
+		)
 	)
 	(via
 		(at 167.75 77.25)
