@@ -1008,20 +1008,42 @@
 		)
 	)
 	(junction
-		(at 79.375 70.485)
+		(at 101.6 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1aace823-5eea-48f2-917c-e1f3b3e3b33f")
+	)
+	(junction
+		(at 80.01 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5f07c5df-0b71-4680-8a93-e9bbc44d4479")
 	)
 	(junction
-		(at 88.9 82.55)
+		(at 111.76 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "92b9c9e6-4d0d-4f10-981b-2d732cf65243")
+	)
+	(junction
+		(at 88.9 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f400551f-b828-4637-a577-19656e3ef30f")
 	)
 	(wire
 		(pts
-			(xy 93.98 70.485) (xy 95.885 70.485)
+			(xy 104.14 91.44) (xy 101.6 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0830ed67-a0cb-474c-a71a-4bf1f078260e")
+	)
+	(wire
+		(pts
+			(xy 93.98 71.12) (xy 96.52 71.12)
 		)
 		(stroke
 			(width 0)
@@ -1031,7 +1053,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.965 82.55) (xy 88.9 82.55)
+			(xy 101.6 83.82) (xy 88.9 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1041,7 +1063,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 67.945) (xy 115.57 67.945)
+			(xy 120.65 68.58) (xy 123.19 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1051,7 +1073,27 @@
 	)
 	(wire
 		(pts
-			(xy 79.375 79.375) (xy 79.375 82.55)
+			(xy 101.6 91.44) (xy 101.6 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b639c01-c61f-4a5d-9ce2-50335159588d")
+	)
+	(wire
+		(pts
+			(xy 111.76 96.52) (xy 111.76 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d12658a-8ed1-450d-a231-4b3bb9c9c735")
+	)
+	(wire
+		(pts
+			(xy 80.01 80.01) (xy 80.01 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1061,7 +1103,7 @@
 	)
 	(wire
 		(pts
-			(xy 79.375 70.485) (xy 83.82 70.485)
+			(xy 80.01 71.12) (xy 83.82 71.12)
 		)
 		(stroke
 			(width 0)
@@ -1071,7 +1113,17 @@
 	)
 	(wire
 		(pts
-			(xy 100.965 78.105) (xy 100.965 82.55)
+			(xy 111.76 71.12) (xy 123.19 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e2858ec-9c73-4df3-b780-9fc402f7bd58")
+	)
+	(wire
+		(pts
+			(xy 101.6 78.74) (xy 101.6 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1081,7 +1133,7 @@
 	)
 	(wire
 		(pts
-			(xy 79.375 70.485) (xy 79.375 71.755)
+			(xy 80.01 71.12) (xy 80.01 72.39)
 		)
 		(stroke
 			(width 0)
@@ -1091,7 +1143,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 67.945) (xy 69.85 67.945)
+			(xy 68.58 68.58) (xy 69.85 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1101,7 +1153,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 82.55) (xy 88.9 85.09)
+			(xy 88.9 83.82) (xy 88.9 86.36)
 		)
 		(stroke
 			(width 0)
@@ -1111,7 +1163,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 95.25) (xy 88.9 96.52)
+			(xy 88.9 96.52) (xy 88.9 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1121,7 +1173,17 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 70.485) (xy 79.375 70.485)
+			(xy 111.76 71.12) (xy 111.76 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "946f6c00-74a1-430d-be13-76c6dc6d7a7c")
+	)
+	(wire
+		(pts
+			(xy 68.58 71.12) (xy 80.01 71.12)
 		)
 		(stroke
 			(width 0)
@@ -1131,7 +1193,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 90.17) (xy 71.12 90.17)
+			(xy 81.28 91.44) (xy 71.12 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1141,7 +1203,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.045 70.485) (xy 115.57 70.485)
+			(xy 106.68 71.12) (xy 111.76 71.12)
 		)
 		(stroke
 			(width 0)
@@ -1151,7 +1213,7 @@
 	)
 	(wire
 		(pts
-			(xy 79.375 82.55) (xy 88.9 82.55)
+			(xy 80.01 83.82) (xy 88.9 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1161,7 +1223,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 87.63) (xy 72.39 87.63)
+			(xy 71.12 88.9) (xy 72.39 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1171,7 +1233,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 73.025) (xy 69.85 73.025)
+			(xy 68.58 73.66) (xy 69.85 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1181,7 +1243,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 92.71) (xy 72.39 92.71)
+			(xy 71.12 93.98) (xy 72.39 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1191,7 +1253,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 78.105) (xy 88.9 82.55)
+			(xy 88.9 78.74) (xy 88.9 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1201,7 +1263,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 114.3 67.945 270)
+		(at 120.65 68.58 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1210,7 +1272,7 @@
 		(fields_autoplaced yes)
 		(uuid "00aba361-3b2e-4297-9f89-98c5ba3be14c")
 		(property "Reference" "#PWR01"
-			(at 107.95 67.945 0)
+			(at 114.3 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1219,7 +1281,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 111.1251 67.945 90)
+			(at 117.4751 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1228,7 +1290,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 114.3 67.945 0)
+			(at 120.65 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1237,7 +1299,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 67.945 0)
+			(at 120.65 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1246,7 +1308,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 114.3 67.945 0)
+			(at 120.65 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1268,7 +1330,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:2N7002")
-		(at 86.36 90.17 0)
+		(at 86.36 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1277,7 +1339,7 @@
 		(fields_autoplaced yes)
 		(uuid "0356b734-d7db-47a7-a153-a3ae5b360bff")
 		(property "Reference" "Q1"
-			(at 91.567 88.9579 0)
+			(at 91.567 90.2279 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1286,7 +1348,7 @@
 			)
 		)
 		(property "Value" "2N7002"
-			(at 91.567 91.3821 0)
+			(at 91.567 92.6521 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1295,7 +1357,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 91.44 92.075 0)
+			(at 91.44 93.345 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1306,7 +1368,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF"
-			(at 86.36 90.17 0)
+			(at 86.36 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1316,7 +1378,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 86.36 90.17 0)
+			(at 86.36 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1344,7 +1406,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 69.85 67.945 90)
+		(at 69.85 68.58 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1353,7 +1415,7 @@
 		(fields_autoplaced yes)
 		(uuid "1891e2d3-576f-48e6-9bed-db88b1ef5daf")
 		(property "Reference" "#PWR02"
-			(at 76.2 67.945 0)
+			(at 76.2 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1362,7 +1424,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 73.025 67.945 90)
+			(at 73.025 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1371,7 +1433,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.85 67.945 0)
+			(at 69.85 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1380,7 +1442,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.85 67.945 0)
+			(at 69.85 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1389,7 +1451,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.85 67.945 0)
+			(at 69.85 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1411,7 +1473,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Audio:AudioJack2_SwitchT")
-		(at 66.04 90.17 0)
+		(at 66.04 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1420,7 +1482,7 @@
 		(fields_autoplaced yes)
 		(uuid "1dfb0094-0f96-4540-98dc-14ec8d9f40ef")
 		(property "Reference" "J2"
-			(at 65.405 82.2157 0)
+			(at 65.405 83.4857 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1428,7 +1490,7 @@
 			)
 		)
 		(property "Value" "AudioJack2_SwitchT"
-			(at 65.405 84.6399 0)
+			(at 65.405 85.9099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1436,7 +1498,7 @@
 			)
 		)
 		(property "Footprint" "Custom_FP:PJ398SM"
-			(at 66.04 90.17 0)
+			(at 66.04 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1445,7 +1507,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 90.17 0)
+			(at 66.04 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1454,7 +1516,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 90.17 0)
+			(at 66.04 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1482,7 +1544,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Audio:AudioJack2_SwitchT")
-		(at 120.65 70.485 0)
+		(at 128.27 71.12 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1491,7 +1553,7 @@
 		(dnp no)
 		(uuid "4289649b-e87f-4849-adfa-3b2ab7ceaa38")
 		(property "Reference" "J3"
-			(at 121.285 62.5307 0)
+			(at 128.905 63.1657 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1499,7 +1561,7 @@
 			)
 		)
 		(property "Value" "AudioJack2_SwitchT"
-			(at 121.285 64.9549 0)
+			(at 128.905 65.5899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1507,7 +1569,7 @@
 			)
 		)
 		(property "Footprint" "Custom_FP:PJ398SM"
-			(at 120.65 70.485 0)
+			(at 128.27 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1516,7 +1578,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 120.65 70.485 0)
+			(at 128.27 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1525,7 +1587,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 120.65 70.485 0)
+			(at 128.27 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1553,7 +1615,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 88.9 96.52 0)
+		(at 88.9 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1562,7 +1624,7 @@
 		(fields_autoplaced yes)
 		(uuid "696faddb-9b51-4585-b7d3-533dface7820")
 		(property "Reference" "#PWR06"
-			(at 88.9 102.87 0)
+			(at 88.9 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1571,7 +1633,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 88.9 100.6531 0)
+			(at 88.9 101.9231 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1579,7 +1641,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 88.9 96.52 0)
+			(at 88.9 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1588,7 +1650,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 96.52 0)
+			(at 88.9 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1597,7 +1659,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 88.9 96.52 0)
+			(at 88.9 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1619,7 +1681,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 72.39 87.63 90)
+		(at 72.39 88.9 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1628,7 +1690,7 @@
 		(fields_autoplaced yes)
 		(uuid "6eb1d484-29b8-43f6-81d8-1029dea81be7")
 		(property "Reference" "#PWR03"
-			(at 78.74 87.63 0)
+			(at 78.74 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1637,7 +1699,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 75.565 87.63 90)
+			(at 75.565 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1646,7 +1708,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 72.39 87.63 0)
+			(at 72.39 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1655,7 +1717,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 72.39 87.63 0)
+			(at 72.39 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1664,7 +1726,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 72.39 87.63 0)
+			(at 72.39 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1686,7 +1748,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 79.375 75.565 0)
+		(at 80.01 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1695,7 +1757,7 @@
 		(fields_autoplaced yes)
 		(uuid "7bdcea07-8b88-440f-bbd6-f8541e4c183f")
 		(property "Reference" "R1"
-			(at 81.153 74.3529 0)
+			(at 81.788 74.9879 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1704,7 +1766,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 81.153 76.7771 0)
+			(at 81.788 77.4121 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1713,7 +1775,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 77.597 75.565 90)
+			(at 78.232 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1722,7 +1784,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 79.375 75.565 0)
+			(at 80.01 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1731,7 +1793,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 79.375 75.565 0)
+			(at 80.01 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1756,7 +1818,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:BSS84")
-		(at 88.9 73.025 270)
+		(at 88.9 73.66 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1766,7 +1828,7 @@
 		(fields_autoplaced yes)
 		(uuid "8e5942a7-f7b5-4836-b9ba-f128ea773c9d")
 		(property "Reference" "Q3"
-			(at 88.9 64.4357 90)
+			(at 88.9 65.0707 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1774,7 +1836,7 @@
 			)
 		)
 		(property "Value" "BSS84"
-			(at 88.9 66.8599 90)
+			(at 88.9 67.4949 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1782,7 +1844,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 86.995 67.945 0)
+			(at 86.995 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1793,7 +1855,7 @@
 			)
 		)
 		(property "Datasheet" "http://assets.nexperia.com/documents/data-sheet/BSS84.pdf"
-			(at 88.9 73.025 0)
+			(at 88.9 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1803,7 +1865,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 88.9 73.025 0)
+			(at 88.9 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1831,7 +1893,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:BSS84")
-		(at 100.965 73.025 90)
+		(at 101.6 73.66 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1840,7 +1902,7 @@
 		(fields_autoplaced yes)
 		(uuid "a5c54631-cf2c-4a18-912c-53122020742f")
 		(property "Reference" "Q2"
-			(at 100.965 64.4357 90)
+			(at 101.6 65.0707 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1848,7 +1910,7 @@
 			)
 		)
 		(property "Value" "BSS84"
-			(at 100.965 66.8599 90)
+			(at 101.6 67.4949 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1856,7 +1918,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 102.87 67.945 0)
+			(at 103.505 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1867,7 +1929,7 @@
 			)
 		)
 		(property "Datasheet" "http://assets.nexperia.com/documents/data-sheet/BSS84.pdf"
-			(at 100.965 73.025 0)
+			(at 101.6 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1877,7 +1939,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 100.965 73.025 0)
+			(at 101.6 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1904,33 +1966,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Audio:AudioJack2_SwitchT")
-		(at 63.5 70.485 0)
+		(lib_id "power:GND")
+		(at 111.76 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e9601ca4-723f-424e-a3f8-c7af61fc8100")
-		(property "Reference" "J1"
-			(at 62.865 62.5307 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "AudioJack2_SwitchT"
-			(at 62.865 64.9549 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Custom_FP:PJ398SM"
-			(at 63.5 70.485 0)
+		(uuid "c6e72779-6674-41f0-a1e3-bbdb370f8ba4")
+		(property "Reference" "#PWR07"
+			(at 111.76 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1938,8 +1984,25 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 63.5 70.485 0)
+		(property "Value" "GND"
+			(at 111.76 101.9231 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 111.76 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1948,7 +2011,148 @@
 			)
 		)
 		(property "Description" ""
-			(at 63.5 70.485 0)
+			(at 111.76 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c1fff01d-2f64-474b-8355-767a71918bdd")
+		)
+		(instances
+			(project "AND"
+				(path "/a5df1558-8dd0-4994-b9d9-355175aa16b6"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:2N7002")
+		(at 109.22 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d1da7243-1523-41f2-83f5-6d94cb5bb5e0")
+		(property "Reference" "Q4"
+			(at 114.427 90.2279 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2N7002"
+			(at 114.427 92.6521 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 114.3 93.345 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF"
+			(at 109.22 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9976fc28-53cd-451e-bc44-ae238839fc9e")
+		)
+		(pin "2"
+			(uuid "ea3489a1-4873-4f60-83d9-d63848f260f8")
+		)
+		(pin "3"
+			(uuid "627cdd14-fe9b-4161-9299-9daa6e1d6711")
+		)
+		(instances
+			(project "AND"
+				(path "/a5df1558-8dd0-4994-b9d9-355175aa16b6"
+					(reference "Q4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Audio:AudioJack2_SwitchT")
+		(at 63.5 71.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e9601ca4-723f-424e-a3f8-c7af61fc8100")
+		(property "Reference" "J1"
+			(at 62.865 63.1657 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AudioJack2_SwitchT"
+			(at 62.865 65.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Custom_FP:PJ398SM"
+			(at 63.5 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 63.5 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 63.5 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1976,7 +2180,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 72.39 92.71 90)
+		(at 72.39 93.98 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1985,7 +2189,7 @@
 		(fields_autoplaced yes)
 		(uuid "ed3ae390-271b-42a1-aa8d-b4dd4667a68a")
 		(property "Reference" "#PWR04"
-			(at 78.74 92.71 0)
+			(at 78.74 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1994,7 +2198,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 75.565 92.71 90)
+			(at 75.565 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2003,7 +2207,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 72.39 92.71 0)
+			(at 72.39 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2012,7 +2216,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 72.39 92.71 0)
+			(at 72.39 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2021,7 +2225,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 72.39 92.71 0)
+			(at 72.39 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2043,7 +2247,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 69.85 73.025 90)
+		(at 69.85 73.66 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2052,7 +2256,7 @@
 		(fields_autoplaced yes)
 		(uuid "fc075466-9791-452d-9719-8358404b2a90")
 		(property "Reference" "#PWR05"
-			(at 76.2 73.025 0)
+			(at 76.2 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2061,7 +2265,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 73.025 73.025 90)
+			(at 73.025 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2070,7 +2274,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.85 73.025 0)
+			(at 69.85 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2079,7 +2283,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.85 73.025 0)
+			(at 69.85 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2088,7 +2292,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.85 73.025 0)
+			(at 69.85 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
